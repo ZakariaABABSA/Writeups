@@ -29,8 +29,8 @@ ghidra : a static analyses tool that allow to decompile the file
 
 when i opened the file with ghidra and i navigated into the main function ,i found the password hardcoded as a plain string in the comparaison , then i run the programme using the password and i got the flag
 
-![Ghidra main function](../images/ghidra.png)
-![running the program](../images/reverse.png)
+![Ghidra main function](ghidra.png)
+![running the program](reverse.png)
 
 
 
