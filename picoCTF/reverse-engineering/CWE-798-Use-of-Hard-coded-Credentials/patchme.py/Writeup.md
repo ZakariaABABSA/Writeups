@@ -41,8 +41,8 @@ if(user_pw == "ak98" + \
 ![running the programme](run.png)
 ![the interesting part of the source code](the_programme.png)
 
-```bash
 ## commands used
+```bash
 chmod +x patchme.py
 python3 patchme.py
 nano patchme.py
