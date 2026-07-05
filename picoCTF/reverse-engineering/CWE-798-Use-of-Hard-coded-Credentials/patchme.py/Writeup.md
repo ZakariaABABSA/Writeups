@@ -33,12 +33,14 @@ if(user_pw == "ak98" + \
               "sleuth9000"):
 ```
 
-``` Extracted Password 
- " ak98-=90adfjhgj321sleuth9000"
- 
----
+** Extracted Password **
+```
+ "ak98-=90adfjhgj321sleuth9000"
+```
+
 ![running the programme](run.png)
 ![the interesting part of the source code](the_programme.png)
+
 ```bash
 # commands used
 chmod +x patchme.py
