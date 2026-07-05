@@ -33,7 +33,7 @@ if(user_pw == "ak98" + \
               "sleuth9000"):
 ```
 
-** Extracted Password **
+**Extracted Password**
 ```
  "ak98-=90adfjhgj321sleuth9000"
 ```
@@ -42,7 +42,7 @@ if(user_pw == "ak98" + \
 ![the interesting part of the source code](the_programme.png)
 
 ```bash
-# commands used
+## commands used
 chmod +x patchme.py
 python3 patchme.py
 nano patchme.py
